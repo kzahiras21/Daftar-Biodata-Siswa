@@ -37,3 +37,6 @@ Daftar biodata siswa Dicoding Academy
    TTL    : Pinrang, 10 Maret 2003
    Alamat : Jln. Mangkupalas RT.07 No.12
 5. berubah
+
+
+im=ni ncqaksk
